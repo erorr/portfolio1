@@ -1,0 +1,12 @@
+.navbar-brand {
+	padding-top: 1px;
+}
+
+.navbar {
+	margin-bottom: 0px;
+}
+
+.carousel-inner {
+  width:100%;
+  max-height: 400px !important;
+}
